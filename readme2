@@ -1,2 +1,6 @@
 esta es una prueba
+<<<<<<< HEAD
 esta es otra prueba
+=======
+prueba 3
+>>>>>>> feature_x
